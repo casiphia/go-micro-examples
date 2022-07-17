@@ -49,3 +49,8 @@ etcdctl  snapshot restore test.db --data-dir=default.etcd
 
 ## Run:
 
+``` go
+go run main
+or
+go test
+```

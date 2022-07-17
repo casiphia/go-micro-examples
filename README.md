@@ -12,7 +12,7 @@ If it is helpful to you, please help to click a like.
 ### Usage
 
 - [broker-rabbitmq](https://github.com/casiphia/go-micro-examples/tree/main/broker-rabbitmq)
-- [etcd]()
+- [etcd](https://github.com/casiphia/go-micro-examples/tree/main/etcd)
 
 ### License
 

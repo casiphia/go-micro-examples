@@ -1,13 +1,3 @@
-/*
- * @Descripttion: 828 project
- * @Version: 1.0.0
- * @Author: wangxiaodiao
- * @Email: 413586280@qq.com
- * @Date: 2022-07-18 10:31:52
- * @LastEditors: wangxiaodiao
- * @LastEditTime: 2022-07-18 11:47:44
- * @FilePath: /go-micro-examples/etcd/config_test.go
- */
 package main
 
 import (

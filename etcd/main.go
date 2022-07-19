@@ -12,6 +12,10 @@ func main() {
 
 	// New Service
 	service := micro.NewService(
+		// 服务名称
+		micro.Name("go.micro.service.demo"),
+		// 服务版本
+		micro.Version("latest"),
 		micro.Registry(etcd.NewRegistry(
 			registry.Addrs("127.0.0.1:2379"),
 		)), //etcd注册

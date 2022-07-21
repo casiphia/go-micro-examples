@@ -13,6 +13,7 @@ If it is helpful to you, please help to click a like.
 
 - [broker-rabbitmq](https://github.com/casiphia/go-micro-examples/tree/main/broker-rabbitmq)
 - [etcd](https://github.com/casiphia/go-micro-examples/tree/main/etcd)
+- [config](https://github.com/casiphia/go-micro-examples/tree/main/config)
 
 ### License
 
